@@ -1,0 +1,1 @@
+::: waterspy.foo
